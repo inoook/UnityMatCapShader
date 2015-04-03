@@ -7,4 +7,6 @@ WebGLで実装してあるこのあたりを参考にUnityのShaderへ。
 
 テクスチャなども上記から。
 
+![Sample](sampleImage.png)
+
 unity5.0.0f4
